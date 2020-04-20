@@ -32,8 +32,15 @@
         "theme-default": {
             "showLevel": false
         },
+        "github": {
+            "url": "https://github.com/notexx"
+        },
         "anchor-navigation-ex":{
             "showLevel": false
+        },
+        "edit-link": {
+            "base": "https://github.com/notexx",
+            "label": ""
         }
     }
 }
