@@ -24,7 +24,7 @@
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy Iron 2018",
+            "copyright":"Copyright &copy notex.top 2020",
             "modify_label": "修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -32,15 +32,8 @@
         "theme-default": {
             "showLevel": false
         },
-        "github": {
-            "url": "https://github.com/Iron-YeHong"
-        },
         "anchor-navigation-ex":{
             "showLevel": false
-        },
-        "edit-link": {
-            "base": "https://github.com/Iron-YeHong",
-            "label": ""
         }
     }
 }
